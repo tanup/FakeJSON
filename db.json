@@ -1,0 +1,22 @@
+ 	[{
+ 			"code": "USD",
+ 			"symbol": "&#36;",
+ 			"rate": "4,249.8213",
+ 			"description": "United States Dollar",
+ 			"rate_float": 4249.8213
+ 		},
+ 		{
+ 			"code": "GBP",
+ 			"symbol": "&pound;",
+ 			"rate": "3,177.8718",
+ 			"description": "British Pound Sterling",
+ 			"rate_float": 3177.8718
+ 		},
+ 		{
+ 			"code": "EUR",
+ 			"symbol": "&euro;",
+ 			"rate": "3,622.4201",
+ 			"description": "Euro",
+ 			"rate_float": 3622.4201
+ 		}
+ 	]
